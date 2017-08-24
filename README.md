@@ -12,5 +12,12 @@ Datasets:
 
 
 Models:
-1. Download the trained models and place in model/ folder.
+1. Download the trained models and place in models/ folder.
 2. The models (baseline, pose-specific and pose estimator) are available at [link](http://cvit.iiit.ac.in/images/Projects/PersonRecognition/models.zip)
+
+
+Testing:
+1. Change the data path and 
+2. To reproduce the results on PIPA test set, run run_PIPA.ipynb
+3. To reproduce the results on Hannah test set, run run_hannah.ipynb
+4. To reproduce the results on soccer, run run_soccer.ipynb
