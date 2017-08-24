@@ -5,12 +5,12 @@ The implementation is based on Python Caffe.
 
 Datasets:
 1. Download the datasets from the below links and place in data/ folder.
-2. PIPA (test): https://people.eecs.berkeley.edu/~nzhang/piper.html 
-3. Hannah movie : http://www.technicolor.com/en/innovation/scientific-community/scientific-data-sharing/hannah-dataset
-4. IMDB : http://cvit.iiit.ac.in/images/Projects/PersonRecognition/Data/imdb.zip
-5. Soccer videos : http://cvit.iiit.ac.in/images/Projects/PersonRecognition/Data/soccer.zip
+2. PIPA (test): [Link](https://people.eecs.berkeley.edu/~nzhang/piper.html)
+3. Hannah movie : [Link](http://www.technicolor.com/en/innovation/scientific-community/scientific-data-sharing/hannah-dataset)
+4. IMDB : [Link] (http://cvit.iiit.ac.in/images/Projects/PersonRecognition/Data/imdb.zip)
+5. Soccer videos : [Link] (http://cvit.iiit.ac.in/images/Projects/PersonRecognition/Data/soccer.zip)
 
 
 Models:
 1. Download the trained models and place in model/ folder.
-2. The models (baseline, pose-specific and pose estimator) are available at http://cvit.iiit.ac.in/images/Projects/PersonRecognition/models.zip
+2. The models (baseline, pose-specific and pose estimator) are available at [link](http://cvit.iiit.ac.in/images/Projects/PersonRecognition/models.zip)
