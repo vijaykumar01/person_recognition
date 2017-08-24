@@ -30,18 +30,10 @@ Dependencies: [Liblinear](https://www.csie.ntu.edu.tw/~cjlin/liblinear/).
 
 References:
 
-If you use this code or data, please cite our paper along with below related references.
+If you use this code or data, please cite the following papers.
 
-@InProceedings{pose_aware_PR,
-author    = "Vijay Kumar and Anoop Namboodiri and and Manohar Paluri and Jawahar, C.~V.",
-title     = "Pose-Aware Person Recognition",
-booktitle = "Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition",
-year      = "2017"
-}
-
-Related references:
-
-1. N. Zhang et al., Beyond Fronta Faces: Improving Person Recognition using Multiple Cues, CVPR 2014.
-2. Oh et al., Person Recognition in Personal Photo Collections, ICCV 2015.
-3. Li et al., A Multi-lvel Contextual Model for Person Recognition in Photo Albums, CVPR 2016.
-4. Ozerov et al., On Evaluating Face Tracks in Movies, ICIP 2013.
+1. Vijay Kumar, Anoop Namboodiri, Manohar Paluri, C V Jawahar, Pose-Aware Person Recognition, CVPR 2017.
+2. N. Zhang et al., Beyond Fronta Faces: Improving Person Recognition using Multiple Cues, CVPR 2014.
+3. Oh et al., Person Recognition in Personal Photo Collections, ICCV 2015.
+4. Li et al., A Multi-lvel Contextual Model for Person Recognition in Photo Albums, CVPR 2016.
+5. Ozerov et al., On Evaluating Face Tracks in Movies, ICIP 2013.
