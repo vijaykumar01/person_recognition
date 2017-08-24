@@ -29,13 +29,19 @@ Dependencies: [Liblinear](https://www.csie.ntu.edu.tw/~cjlin/liblinear/).
 
 
 References:
+
 If you use this code or data, please cite our paper along with below related references.
 
 @InProceedings{vijaycvpr15,
-  author    = "Vijay Kumar and Anoop Namboodiri and and Manohar Paluri and Jawahar, C.~V.",
-  title     = "Pose-Aware Person Recognition",
-  booktitle = "Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition",
-  year      = "2017"
+ 
+author    = "Vijay Kumar and Anoop Namboodiri and and Manohar Paluri and Jawahar, C.~V.",
+
+title     = "Pose-Aware Person Recognition",
+
+booktitle = "Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition",
+
+year      = "2017"
+
 }
 
 Related references:
