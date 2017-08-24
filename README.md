@@ -17,7 +17,7 @@ Models:
 
 
 Testing:
-1. Change the data path and 
-2. To reproduce the results on PIPA test set, run run_PIPA.ipynb
-3. To reproduce the results on Hannah test set, run run_hannah.ipynb
-4. To reproduce the results on soccer, run run_soccer.ipynb
+1. To reproduce the results on PIPA test set, run run_PIPA.ipynb
+2. For recognition in movie scenario, run run_hannah.ipynb
+3. For recognition in soccer setting, run run_soccer.ipynb
+4. Change the "data_path" variable in these scripts
