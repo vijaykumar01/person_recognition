@@ -20,7 +20,11 @@ Testing:
 
 Dependencies: [Liblinear](https://www.csie.ntu.edu.tw/~cjlin/liblinear/).
 
-1. To reproduce the results on PIPA test set, run run_PIPA.ipynb
+1. To reproduce the results on PIPA test set
+   `
+   run run_PIPA.ipynb
+   
+   `
 2. For recognition in movie scenario, run run_hannah.ipynb
 3. For recognition in soccer setting, run run_soccer.ipynb
 4. Change the data folder variable in these scripts according to your path.
